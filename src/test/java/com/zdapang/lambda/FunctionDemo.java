@@ -1,3 +1,4 @@
+package com.zdapang.lambda;
 
 import java.util.function.Consumer;
 import java.util.function.IntPredicate;

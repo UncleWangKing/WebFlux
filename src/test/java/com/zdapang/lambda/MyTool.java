@@ -1,3 +1,4 @@
+package com.zdapang.lambda;
 
 /**
  * 使用jdk 8 接口static方法来创建工具类

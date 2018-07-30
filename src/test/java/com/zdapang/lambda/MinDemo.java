@@ -1,4 +1,4 @@
-package lambda;
+package com.zdapang.lambda;
 
 import java.util.stream.IntStream;
 

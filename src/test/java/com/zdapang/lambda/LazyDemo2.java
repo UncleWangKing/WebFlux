@@ -1,3 +1,4 @@
+package com.zdapang.lambda;
 
 import java.util.function.IntSupplier;
 import java.util.function.IntUnaryOperator;

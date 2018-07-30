@@ -1,3 +1,4 @@
+package com.zdapang.lambda;
 
 @FunctionalInterface
 interface IMath {

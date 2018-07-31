@@ -2,6 +2,7 @@ package com.zdapang.stream;
 
 import java.util.Random;
 import java.util.concurrent.TimeUnit;
+import java.util.regex.Pattern;
 import java.util.stream.Stream;
 
 /**

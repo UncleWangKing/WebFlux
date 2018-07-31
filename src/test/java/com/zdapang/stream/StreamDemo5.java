@@ -4,6 +4,7 @@ import java.util.concurrent.ForkJoinPool;
 import java.util.concurrent.TimeUnit;
 import java.util.stream.IntStream;
 
+//jdk9以上运行peek和count会有问题 具体见慕课手记 https://www.imooc.com/article/38056
 public class StreamDemo5 {
 
 	public static void main(String[] args) {
